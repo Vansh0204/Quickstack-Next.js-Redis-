@@ -80,7 +80,7 @@ export function MainLayout({ children }: MainLayoutProps) {
           <Briefcase className="h-5 w-5 text-slate-600 dark:text-slate-400 group-hover:text-teal-600 dark:group-hover:text-teal-400 transition-colors" />
         </a>
         <a
-          href="https://github.com/Vansh0204/NextJs-and-Radis-Project"
+          href="https://github.com/Vansh0204/Quickstack-Next.js-Redis-/"
           target="_blank"
           rel="noopener noreferrer"
           className="p-2 rounded-full bg-white/80 dark:bg-slate-800/80 backdrop-blur-sm border border-slate-200/50 dark:border-slate-700/50 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-110 group"
