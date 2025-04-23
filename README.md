@@ -288,7 +288,7 @@ The application includes a built-in benchmark tool that compares:
 ### Benchmark Results
 ![Benchmark](docs/benchmark.png)
 
-![Scalable Architecture](https://img.shields.io/badge/scalable-architecture-green?style=flat-square&logo=redis)
+# 🚀 Scaling Vision: How This App Handles Millions of Users
 
 
 As usage scales to thousands or even millions of users, our architecture is designed to remain fast, resilient, and cost-efficient through smart caching and cloud-native infrastructure practices.
