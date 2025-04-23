@@ -2,7 +2,7 @@
 
 A modern full-stack web application showcasing Redis caching strategies with Next.js. This project demonstrates the performance benefits of Redis caching in a real-world application, featuring client-side and server-side rendering approaches.
 
-![Project Banner Placeholder](docs/banner.png)
+![Project Banner Placeholder](docs/Projectbanner.png)
 
 ## Features
 
@@ -277,16 +277,16 @@ The application includes a built-in benchmark tool that compares:
 ## Screenshots
 
 ### Light Mode
-![Light Mode](docs/light-mode.png)
+![Light Mode](docs/Lightmode.png)
 
 ### Dark Mode
-![Dark Mode](docs/dark-mode.png)
+![Dark Mode](docs/Darkmode.png)
 
 ### Mobile View
-![Mobile View](docs/mobile-view.png)
+![Mobile View](docs/MobileView.png)
 
 ### Benchmark Results
-![Benchmark](docs/benchmark.png)
+![Benchmark](docs/BenchmarkResult.png)
 
 # 🚀 Scaling Vision: How This App Handles Millions of Users
 
